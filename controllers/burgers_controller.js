@@ -5,9 +5,9 @@ var burger = require('../models')['Burgers'];
 burger.sync();
 
 //get route -> index
-// router.get('/', function(req,res) {
-// 		res.redirect('/burgers')
-// });
+router.get('/', function(req,res) {
+		res.redirect('/burgers')
+});
 
 router.get('/burgers', function(req,res) {
 	
