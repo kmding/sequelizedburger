@@ -17,7 +17,7 @@
     "username": "root",
     "password": null,
     "database": "burgers_db",
-    "host": "127.0.0.1",
+    "host": "enqhzd10cxh7hv2e.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
